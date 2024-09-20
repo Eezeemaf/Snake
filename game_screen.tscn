@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bjl3348xh7c17"]
+
+[node name="GameScreen" type="Node2D"]
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+polygon = PackedVector2Array(2.08165e-12, 2.08165e-12, 600, 2.08165e-12, 600, 600, 2.08165e-12, 600)
